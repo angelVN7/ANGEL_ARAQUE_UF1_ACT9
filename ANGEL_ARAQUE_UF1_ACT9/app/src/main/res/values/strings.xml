@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navegation">Navegación</string>
+    <string name="boton2">Botón2</string>
+    <string name="boton1">Botón1</string>
+</resources>

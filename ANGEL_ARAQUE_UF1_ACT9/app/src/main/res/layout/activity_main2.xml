@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity2">
+
+    <Button
+        android:id="@+id/Navegacion2"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.15"
+        android:text="@string/navegation"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="332dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:text="@string/boton1"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="239dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:text="@string/boton2"
+        tools:layout_editor_absoluteX="214dp"
+        tools:layout_editor_absoluteY="285dp" />
+
+</LinearLayout>
